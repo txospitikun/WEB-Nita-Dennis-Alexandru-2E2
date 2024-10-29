@@ -1,9 +1,16 @@
-# childcare-manager-web
+# WEB Technologies 
+
+**Year 2 - Semester 2 - UAIC FII**
+<a href="https://edu.info.uaic.ro/web-technologies/">Course Description</a>
+
+The course required a full-stack application (vanilla HTML/CSS + JS & node.js) that could allow some parents or legal guardians to record different things about their children. (feeding/sleeping times, semnificative photos and recordings and so on).
+
+The project was made in cooperation with another colleague @meareantz. I have focused on the backend primary, but our tasks were splitted so we had to tip our toes in every technology of the project.
 
 
-# RESTAPI
 
-# POSTS
+
+# API Examples + SQL Format
 /api/register
 ```
 Payload:
@@ -374,4 +381,5 @@ CREATE TABLE `blacklistedtokens` (
 
 
 ```
+
 
